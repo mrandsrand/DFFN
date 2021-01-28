@@ -1,2 +1,0 @@
-0_example
-hidden layers: 38|22|17; ELU on hidden layers & logistic function on output layer
